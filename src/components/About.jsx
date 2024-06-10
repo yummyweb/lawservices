@@ -7,11 +7,11 @@ function About() {
                 <p className="badge color-primary">About us</p>
                 <h1 className="heading font-title">A few words <br /> about our law firm</h1>
                 <p className="description color-mute">
-                    Trust, modernity, success. Our law firm builds
-                    relationships based on trust and security. We act
-                    quickly, ensuring satisfaction and comfort. We
-                    are your partner in business, removing legal
-                    obstacles to success.
+                    We are a full-service legal practise situated in Gurgaon
+                    with offices in Delhi, Chandigarh, and Gurgaon. We
+                    specialise in litigation and have a team of highly driven
+                    and experienced advocates who believe in putting the clients'
+                    interests first at all times.
                 </p>
                 <button className="ghost">More information about the law firm</button>
             </div>
