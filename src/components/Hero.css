@@ -1,0 +1,51 @@
+.hero-wrapper {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 4rem;
+    height: 88vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero-wrapper .left {
+    width: 60%;
+    height: 70%;
+}
+
+.hero-wrapper .left .badge {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.hero-wrapper .heading {
+    font-weight: 400;
+    font-size: 86px;
+    line-height: 1.1;
+}
+
+.heading span {
+    font-style: italic;
+}
+
+.subheading {
+    margin-top: 30px;
+    line-height: 1.6;
+    font-size: 20px;
+    width: 75%;
+}
+
+.hero-wrapper .left button {
+    margin-top: 30px;
+}
+
+.hero-wrapper .right {
+    height: 100%;
+}
+
+.img-container {
+    height: 100%;
+}
+
+.img-container img {
+    height: 100%;
+}

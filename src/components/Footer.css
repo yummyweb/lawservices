@@ -1,0 +1,59 @@
+.footer-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.footer-wrapper hr {
+    border: none;
+    height: 2px;
+    background-color: rgba(94, 93, 93, 0.1);
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.footer-top .left {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer-top .left .help-email {
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+.footer-top .left .contact-no {
+    font-size: 22px;
+}
+
+.footer-top .left .address {
+    font-size: 16px;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+    margin-top: 4rem;
+}
+
+.footer-bottom .left {
+    font-size: 15px;
+}
+
+.footer-bottom .middle {
+    position: absolute;
+    left: 50%;
+    display: flex;
+    gap: 60px;
+    margin-left: -93px;
+}
