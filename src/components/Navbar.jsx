@@ -1,20 +1,23 @@
+import { useNavigate, useNavigation } from "react-router-dom"
 import "./Navbar.css"
 
 function Navbar() {
+    const navigate = useNavigate()
+
     return (
         <nav>
             <div className="left">
-                <div className="logo font-title">Bharihoke Law Services.</div>
+                <div onClick={() => navigate("/")} className="logo font-title">Bharihoke Law Services.</div>
             </div>
             <div className="right">
                 <div className="links">
-                    <a>About us</a>
-                    <a>Services</a>
-                    <a>Our Team</a>
-                    <a>Blog</a>
+                    <a href="/#about">About us</a>
+                    <a href="/#services">Services</a>
+                    <a href="/#team">Our Team</a>
+                    <a href="/blog">Blog</a>
                     <a>Contact</a>
                 </div>
-                <button className="primary">Make an Appointment</button>
+                <button onClick={() => navigate("/apply")} className="primary">Apply for Free Case Review</button>
             </div>
         </nav>
     )

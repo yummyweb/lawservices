@@ -7,7 +7,7 @@ import "./Services.css"
 
 function Services() {
     return (
-        <div className="services-wrapper">
+        <div className="services-wrapper" id="services">
             <p className="badge color-primary">Services</p>
             <h1 className="heading font-title">What we do</h1>
             <p className="description color-mute">Our lawyers are specialists in criminal law, civil law, commercial law, administrative law and

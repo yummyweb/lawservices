@@ -2,7 +2,7 @@ import "./About.css"
 
 function About() {
     return (
-        <div className="about-wrapper">
+        <div className="about-wrapper" id="about">
             <div className="left">
                 <p className="badge color-primary">About us</p>
                 <h1 className="heading font-title">A few words <br /> about our law firm</h1>

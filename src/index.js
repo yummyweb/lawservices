@@ -8,12 +8,17 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Home from './routes/Home';
+import Apply from './routes/Apply';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Home />,
   },
+  {
+    path: "/apply",
+    element: <Apply />,
+  }
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

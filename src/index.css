@@ -56,3 +56,12 @@ button.ghost:hover {
 .color-mute {
   color: rgb(121, 119, 119);
 }
+
+input {
+  outline: none;
+  padding: 12px 8px;
+  border: 1px solid gray;
+}
+
+input:focus {
+}

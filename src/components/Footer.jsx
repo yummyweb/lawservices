@@ -3,11 +3,11 @@ import "./Footer.css"
 
 function Footer() {
     return (
-        <div className="footer-wrapper">
+        <div className="footer-wrapper" id="footer">
             <div className="footer-top">
                 <div className="left">
                     <div className="logo font-title">Bharihoke Law Services</div>
-                    <div className="help-email">help@bharihokelaw.co</div>
+                    <div className="help-email">contact@nishantbharihoke.com</div>
                     <div className="contact-no">+91 9910241176</div>
                     <div className="address color-mute">Chamber No. 2, Patli Gali, Secretariat</div>
                 </div>
