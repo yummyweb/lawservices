@@ -1,4 +1,4 @@
-import { FaFacebook, FaInstagram, FaLinkedinIn } from "react-icons/fa6"
+import { FaFacebook, FaYoutube, FaLinkedinIn } from "react-icons/fa6"
 import "./Footer.css"
 
 function Footer() {
@@ -21,7 +21,7 @@ function Footer() {
                 <div className="middle">
                     <FaFacebook size={22} />
                     <FaLinkedinIn size={22} />
-                    <FaInstagram size={22} />
+                    <FaYoutube size={22} />
                 </div>
                 <div className="right color-mute">Privacy Policy</div>
             </div>
