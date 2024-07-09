@@ -6,6 +6,7 @@ import WhyUs from "../components/WhyUs"
 import Services from "../components/Services"
 import Blog from "../components/Blog"
 import Footer from "../components/Footer"
+import Videos from "../components/Videos"
 
 function Home() {
     return (
@@ -16,7 +17,7 @@ function Home() {
             <About />
             <WhyUs />
             <Services />
-            <Blog />
+            <Videos />
             <Footer />
         </>
     )

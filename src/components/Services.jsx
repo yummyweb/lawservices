@@ -16,52 +16,52 @@ function Services() {
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <VscLaw size={32} />
+                            <VscLaw size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Law <br /> Family</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <LiaGavelSolid size={32} />
+                            <LiaGavelSolid size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Law <br /> Criminal</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <FiBook size={32} />
+                            <FiBook size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Law <br /> Civil</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <MdOutlineBusinessCenter size={32} />
+                            <MdOutlineBusinessCenter size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Law <br /> Employment</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
@@ -69,52 +69,52 @@ function Services() {
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <IoHomeOutline size={32} />
+                            <IoHomeOutline size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Law <br /> Real Estate</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <LiaFileContractSolid size={32} />
+                            <LiaFileContractSolid size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Contracts <br /> Agreements</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <FiBook size={32} />
+                            <FiBook size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Law <br /> Commercial</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
                 <div className="service">
                     <div className="top">
                         <div className="icon">
-                            <LiaBriefcaseMedicalSolid size={32} />
+                            <LiaBriefcaseMedicalSolid size={38} />
                         </div>
                     </div>
                     <div className="bottom">
                         <p className="title">Medical <br /> Negligence</p>
                         <div className="icon">
-                            <MdArrowOutward size={32} />
+                            <MdArrowOutward size={38} />
                         </div>
                     </div>
                 </div>
