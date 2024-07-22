@@ -78,3 +78,10 @@ nav .right {
         background-color: black;
     }
 }
+
+@media (max-width: 650px) {
+    .logo {
+        font-size: 18px;
+        width: 90%;
+    }
+}
