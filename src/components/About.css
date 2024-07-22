@@ -61,3 +61,23 @@
     background-color: #edb162;
     z-index: -1;
 }
+
+/* @media (max-width: 1350px) {
+    .about-wrapper .img-container {
+        width: 40%;
+    }
+
+    .about-wrapper .right img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .about-wrapper .left {
+        width: 40%;
+    }
+
+    .about-wrapper .left .heading {
+        font-weight: 400;
+        font-size: 30px;
+    }
+} */

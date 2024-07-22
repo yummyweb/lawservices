@@ -33,6 +33,10 @@ nav .right {
     text-decoration: none;
 }
 
+.hamburger {
+    display: none;
+}
+
 @media (max-width: 1350px) {
     nav {
         padding-left: 3rem;
@@ -46,7 +50,7 @@ nav .right {
 
 @media (max-width: 1150px) {
     nav .right {
-        width: 62%;
+        width: 70%;
     }
 
     .links {
@@ -57,5 +61,20 @@ nav .right {
 @media (max-width: 1000px) {
     nav .right {
         display: none;
+    }
+
+    nav .hamburger {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        cursor: pointer;
+    }
+
+    .hamburger .line1,
+    .hamburger .line2,
+    .hamburger .line3 {
+        width: 30px;
+        height: 3px;
+        background-color: black;
     }
 }

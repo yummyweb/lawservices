@@ -19,6 +19,12 @@ function Navbar() {
                 </div>
                 <button onClick={() => navigate("/apply")} className="primary">Apply for Free Case Review</button>
             </div>
+
+            <div className="hamburger">
+                <div className="line1"></div>
+                <div className="line2"></div>
+                <div className="line3"></div>
+            </div>
         </nav>
     )
 }
