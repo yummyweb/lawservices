@@ -122,3 +122,23 @@
         padding-right: 10rem;
     }
 }
+
+@media (max-width: 500px) {
+    .about-wrapper .description {
+        font-size: 14px;
+        width: 140%;
+    }
+
+    .about-wrapper {
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+
+    .about-wrapper .img-container {
+        width: 60%;
+    }
+
+    .about-wrapper button {
+        font-size: 12px;
+    }
+}
