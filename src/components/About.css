@@ -121,6 +121,15 @@
         padding-left: 10rem;
         padding-right: 10rem;
     }
+
+    .about-wrapper .img-container {
+        width: 130%;
+        margin-left: 0;
+    }
+
+    .about-wrapper .right img {
+        height: 100%;
+    }
 }
 
 @media (max-width: 500px) {
@@ -132,10 +141,6 @@
     .about-wrapper {
         padding-left: 6rem;
         padding-right: 6rem;
-    }
-
-    .about-wrapper .img-container {
-        width: 60%;
     }
 
     .about-wrapper button {
