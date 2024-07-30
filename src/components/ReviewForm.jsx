@@ -56,6 +56,11 @@ function ReviewForm() {
                     <input name="client_nature" id="nature" />
                 </div>
 
+                <div className="form-field">
+                    <label for="description">Case Description</label>
+                    <textarea name="client_description" id="description" />
+                </div>
+
                 <button className="primary">Submit</button>
             </form>
         </div>
