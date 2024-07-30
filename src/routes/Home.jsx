@@ -15,7 +15,7 @@ function Home() {
             <Hero />
             {/* <Feature /> */}
             <About />
-            <WhyUs />
+            {/* <WhyUs /> */}
             <Services />
             <Videos />
             <Footer />
