@@ -46,7 +46,7 @@ function Services() {
                         </div>
                     </div>
                     <div className="bottom">
-                        <p className="title">Law <br /> Civil</p>
+                        <p className="title">Law <br /> Corporate</p>
                         <div className="icon">
                             <MdArrowOutward size={38} />
                         </div>
@@ -59,7 +59,7 @@ function Services() {
                         </div>
                     </div>
                     <div className="bottom">
-                        <p className="title">Law <br /> Employment</p>
+                        <p className="title">Intellectual <br /> Property Rights</p>
                         <div className="icon">
                             <MdArrowOutward size={38} />
                         </div>
@@ -73,7 +73,7 @@ function Services() {
                         </div>
                     </div>
                     <div className="bottom">
-                        <p className="title">Law <br /> Real Estate</p>
+                        <p className="title">Writ <br /> Petitions</p>
                         <div className="icon">
                             <MdArrowOutward size={38} />
                         </div>
@@ -86,7 +86,7 @@ function Services() {
                         </div>
                     </div>
                     <div className="bottom">
-                        <p className="title">Contracts <br /> Agreements</p>
+                        <p className="title">Litigation <br /> Public Interest</p>
                         <div className="icon">
                             <MdArrowOutward size={38} />
                         </div>
