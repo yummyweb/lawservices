@@ -80,3 +80,37 @@
         font-size: 16px;
     }
 }
+
+@media (max-width: 650px) {
+    .video-wrapper .heading {
+        font-weight: 400;
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .vid .banner img {
+        width: 120%;
+    }
+
+    .vid .title {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 460px) {
+    .videos-posts {
+        gap: 40px;
+    }
+
+    .vid .banner img {
+        width: 140%;
+    }
+
+    .vid .title {
+        font-size: 18px;
+    }
+
+    .vid .blurb {
+        font-size: 12px;
+    }
+}
