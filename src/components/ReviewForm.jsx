@@ -7,6 +7,7 @@ function ReviewForm() {
 
     const sendEmail = e => {
         e.preventDefault();
+        form.current.reset()
 
         emailjs
             .sendForm('service_okprt9e', 'template_z9e6w8f', form.current, {
