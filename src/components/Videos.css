@@ -82,32 +82,25 @@
 }
 
 @media (max-width: 650px) {
+    .video-wrapper {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+
     .video-wrapper .heading {
         font-weight: 400;
         font-size: 30px;
         margin-bottom: 20px;
     }
 
-    .vid .banner img {
-        width: 120%;
-    }
-
     .vid .title {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 
 @media (max-width: 460px) {
     .videos-posts {
         gap: 40px;
-    }
-
-    .vid .banner img {
-        width: 140%;
-    }
-
-    .vid .title {
-        font-size: 18px;
     }
 
     .vid .blurb {
