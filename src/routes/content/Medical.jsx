@@ -9,30 +9,36 @@ function Medical() {
                 <div className="section-img">
                     <img src="https://i1.wp.com/www.thekoreanlawblog.com/wp-content/uploads/2017/08/0criminal-defense.jpg?resize=300%2C200&ssl=1" alt="" />
                 </div>
-                <h1 className="font-title section-header">Corporate Law</h1>
+                <h1 className="font-title section-header">Medical Negligence</h1>
                 <p className="section-content">
-                    Our chambers provide Expert Legal Services in Corporate and Commercial Law, offering comprehensive support in navigating the complexities of modern business transactions and disputes. In an increasingly globalized and competitive market, businesses face a myriad of legal challenges. We specialize in providing strategic legal counsel in areas such as commercial disputes, arbitration, insolvency and bankruptcy, due diligence, and contract law.
+                    Our chambers provide Expert Legal Services in Medical Negligence, focusing on both the criminal prosecution of negligent healthcare professionals and securing compensation for victims. In a field where medical errors can have profound consequences on patients' lives, our team is dedicated to ensuring accountability and justice.
                     <br />
                     <br />
-                    Commercial Disputes can significantly impact a company's operations and reputation. We represent clients in a wide range of commercial litigation, ensuring that their interests are robustly defended in courts and tribunals. Our expertise extends to handling disputes related to breaches of contract, shareholder issues, partnership disputes, and more.
+                    Criminal Prosecution of Negligent Doctors involves holding medical professionals accountable for breaches of duty that result in harm to patients. We specialize in pursuing criminal charges against doctors and healthcare providers whose negligence or misconduct leads to serious injuries or fatalities. Our approach includes thorough investigation, gathering of evidence, and presenting a robust case to the authorities to ensure that justice is served.
                     <br />
                     <br />
-                    Arbitration is an efficient alternative to traditional litigation, often providing a faster and more confidential resolution to commercial disputes. Our team is experienced in representing clients in both domestic and international arbitration proceedings, offering skilled advocacy and strategic advice to achieve favorable outcomes.
+                    Compensation for Victims of Medical Negligence is crucial for addressing the physical, emotional, and financial impacts suffered by patients. We assist clients in filing claims for compensation, negotiating settlements, and representing them in court to recover damages for medical expenses, pain and suffering, lost wages, and other related losses. Our goal is to secure fair and adequate compensation to support victims in their recovery and rehabilitation.
                     <br />
                     <br />
-                    In matters of Insolvency and Bankruptcy, we provide expert guidance under the Insolvency and Bankruptcy Code (IBC), 2016, assisting clients in navigating the complexities of financial distress. Whether representing creditors or debtors, we offer comprehensive legal solutions, including restructuring and recovery strategies, insolvency proceedings, and liquidation processes.
+                    Our services cover various aspects of medical negligence cases, including:
                     <br />
                     <br />
-                    Due Diligence is a critical component of mergers, acquisitions, and other corporate transactions. Our team conducts thorough due diligence investigations to identify potential legal risks and liabilities, ensuring that our clients are fully informed before making business decisions. This process includes reviewing contracts, compliance with regulations, and evaluating financial and operational aspects of the target entity.
+                    •	Investigation and Documentation: Collecting medical records, expert opinions, and other evidence to establish the basis of negligence and causation.
                     <br />
                     <br />
-                    Contracts are the backbone of any business relationship. We assist clients in drafting, reviewing, and negotiating a wide range of commercial contracts, including joint venture agreements, partnership agreements, employment contracts, and service agreements. Our focus is on creating clear and enforceable agreements that protect our clients' interests and minimize risk.
+                    •	Filing Complaints: Preparing and submitting complaints to relevant medical boards or authorities for disciplinary action against the accused healthcare professionals.
                     <br />
                     <br />
-                    With a strong presence in Gurgaon and Delhi, we offer PAN India services, representing businesses across various sectors. Our team of skilled professionals is adept at providing pragmatic and effective legal solutions, tailored to meet the unique needs of each client. We prioritize clarity, efficiency, and proactive legal strategies, ensuring that our clients can navigate the legal landscape with confidence.
+                    •	Legal Representation: Advocating for clients in criminal proceedings, civil litigation, and compensation claims.
                     <br />
                     <br />
-                    Our chambers are dedicated to supporting businesses through every stage of their growth and development. Whether through litigation, arbitration, or advisory services, we are committed to helping our clients achieve their business objectives and resolve legal challenges effectively.
+                    •	Consultation with Medical Experts: Engaging with medical experts to provide testimony and support in establishing the standard of care and breach thereof.
+                    <br />
+                    <br />
+                    With a strong presence in Gurgaon and Delhi, we offer PAN India services, ensuring that clients across the country receive expert legal support in cases of medical negligence. Our team is committed to delivering personalized and effective legal solutions, ensuring that victims of medical errors receive justice and appropriate redress.
+                    <br />
+                    <br />
+                    Our chambers are dedicated to fighting for the rights of patients affected by medical negligence, holding healthcare providers accountable, and securing the compensation and justice that victims deserve.
                 </p>
             </div>
         </>

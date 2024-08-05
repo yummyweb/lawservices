@@ -9,7 +9,7 @@ function Litigation() {
                 <div className="section-img">
                     <img src="https://i1.wp.com/www.thekoreanlawblog.com/wp-content/uploads/2017/08/0criminal-defense.jpg?resize=300%2C200&ssl=1" alt="" />
                 </div>
-                <h1 className="font-title section-header">Corporate Law</h1>
+                <h1 className="font-title section-header">Public Interest Litigation</h1>
                 <p className="section-content">
                     Our chambers provide Expert Legal Services in Corporate and Commercial Law, offering comprehensive support in navigating the complexities of modern business transactions and disputes. In an increasingly globalized and competitive market, businesses face a myriad of legal challenges. We specialize in providing strategic legal counsel in areas such as commercial disputes, arbitration, insolvency and bankruptcy, due diligence, and contract law.
                     <br />

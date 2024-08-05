@@ -74,7 +74,7 @@ function Services() {
                     </div>
                 </div>
 
-                <div className="service">
+                <div className="service" onClick={() => routeTo("writpetition")}>
                     <div className="top">
                         <div className="icon">
                             <IoHomeOutline size={38} />
@@ -87,7 +87,7 @@ function Services() {
                         </div>
                     </div>
                 </div>
-                <div className="service">
+                <div className="service" onClick={() => routeTo("litigation")}>
                     <div className="top">
                         <div className="icon">
                             <LiaFileContractSolid size={38} />
@@ -100,7 +100,7 @@ function Services() {
                         </div>
                     </div>
                 </div>
-                <div className="service">
+                <div className="service" onClick={() => routeTo("commercial")}>
                     <div className="top">
                         <div className="icon">
                             <FiBook size={38} />
@@ -113,7 +113,7 @@ function Services() {
                         </div>
                     </div>
                 </div>
-                <div className="service">
+                <div className="service" onClick={() => routeTo("medicalnegligence")}>
                     <div className="top">
                         <div className="icon">
                             <LiaBriefcaseMedicalSolid size={38} />
