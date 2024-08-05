@@ -100,7 +100,7 @@ function Services() {
                         </div>
                     </div>
                 </div>
-                <div className="service" onClick={() => routeTo("commercial")}>
+                <div className="service" onClick={() => routeTo("commerciallaw")}>
                     <div className="top">
                         <div className="icon">
                             <FiBook size={38} />
