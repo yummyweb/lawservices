@@ -9,6 +9,14 @@ import {
 } from "react-router-dom";
 import Home from './routes/Home';
 import Apply from './routes/Apply';
+import FamilyLaw from './routes/content/FamilyLaw';
+import CriminalLaw from './routes/content/CriminalLaw';
+import CorporateLaw from './routes/content/CorporateLaw';
+import IntellectualProperty from './routes/content/IntellectualProperty';
+import Medical from './routes/content/Medical';
+import Commercial from './routes/content/Commercial';
+import WritPetition from './routes/content/WritPetition';
+import Litigation from './routes/content/Litigation';
 
 const router = createBrowserRouter([
   {
@@ -18,7 +26,39 @@ const router = createBrowserRouter([
   {
     path: "/apply",
     element: <Apply />,
-  }
+  },
+  {
+    path: "/content/family",
+    element: <FamilyLaw />
+  },
+  {
+    path: "/content/criminal",
+    element: <CriminalLaw />
+  },
+  {
+    path: "/content/corporate",
+    element: <CorporateLaw />
+  },
+  {
+    path: "/content/intellectualproperty",
+    element: <IntellectualProperty />
+  },
+  {
+    path: "/content/litigation",
+    element: <Litigation />
+  },
+  {
+    path: "/content/medicalnegligence",
+    element: <Medical />
+  },
+  {
+    path: "/content/commerciallaw",
+    element: <Commercial />
+  },
+  {
+    path: "/content/writpetition",
+    element: <WritPetition />
+  },
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
