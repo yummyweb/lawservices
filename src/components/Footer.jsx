@@ -30,7 +30,9 @@ function Footer() {
                         <SiSubstack size={22} />
                     </a>
 
-                    <FaLinkedinIn size={22} />
+                    <a target="_blank" style={{ textDecoration: "none", color: "black" }} href="https://www.linkedin.com/in/nishant-bharihoke-556718220/">
+                        <FaLinkedinIn size={22} />
+                    </a>
 
                     <a target="_blank" style={{ textDecoration: "none", color: "black" }} href="https://www.youtube.com/@nishantbharihoke">
                         <FaYoutube size={22} />
