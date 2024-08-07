@@ -23,7 +23,7 @@ function Videos() {
             <h1 className="heading font-title">Videos</h1>
             <div className="videos-posts">
                 {videos.map(v => (
-                    <div className="vid">
+                    <div className="vid" onClick={() => window.open("https://www.youtube.com/@nishantbharihoke")}>
                         <div className="banner">
                             <img src={v.snippet.thumbnails.high.url} alt="Image of a laptop and a notebook" />
                         </div>
