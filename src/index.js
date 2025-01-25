@@ -18,6 +18,8 @@ import Commercial from './routes/content/Commercial';
 import WritPetition from './routes/content/WritPetition';
 import Litigation from './routes/content/Litigation';
 
+import Blog from './routes/Blog';
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -58,6 +60,10 @@ const router = createBrowserRouter([
   {
     path: "/content/writpetition",
     element: <WritPetition />
+  },
+  {
+    path: "/blog",
+    element: <Blog />
   },
 ]);
 

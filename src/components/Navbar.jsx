@@ -14,7 +14,7 @@ function Navbar() {
                     <a href="/#about">About us</a>
                     <a href="/#services">Services</a>
                     <a href="/#content">Media</a>
-                    <a>Contact</a>
+                    <a href="/blog">Blog</a>
                 </div>
                 <button onClick={() => navigate("/apply")} className="primary">Apply for Free Case Review</button>
             </div>
